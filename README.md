@@ -78,8 +78,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 For any queries, reach out to:
-- **Author:** Sabareeshwaran Sureshkumar
-- **Email:** [sabareeshjr12.com]
+- **Author:** Sabareeshwaran S
+- **Email:** sabareeshjr12@gmail.com
 - **GitHub:** https://github.com/sabareeshwaran-sureshkumar
 
 ---
